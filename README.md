@@ -1,6 +1,8 @@
 # Multiplication.Unity3d.Android
 The mobile game part of the app I made for my nephew for multiplication practice.
 
+<img src="http://i.imgur.com/Yb1ZW9k.png"></img>
+
 Find and replace YOURURL with the url of your deployed web api project and it's ready to go. Here is that web api project: https://github.com/erhanalankus/Multiplication.WebAPI
 
 There are four different coins to be earned in the game. Wood, copper, silver and gold. More difficult questions earn more precious coins.
